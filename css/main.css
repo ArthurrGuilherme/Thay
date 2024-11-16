@@ -14,5 +14,10 @@
     font-weight: 500;
 }
 #Arrow {
-    
+    position: relative;
+    animation: mymove .8s infinite;
 }
+@keyframes mymove {
+    from {top: 0px;}
+    to {top: 30px;}
+  }
