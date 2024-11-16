@@ -1,0 +1,18 @@
+#Container {
+    padding: 11.5rem 0px !important;
+}
+#Titulo {
+    letter-spacing: -1rem;
+    font-size: 10rem !important;
+    font-weight: 800;
+}
+#Legend {
+    position: relative;
+    letter-spacing: .3rem;
+    right: 10.8rem;
+    top: 1.6rem;
+    font-weight: 500;
+}
+#Arrow {
+    
+}
