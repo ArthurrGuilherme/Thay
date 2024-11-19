@@ -25,3 +25,8 @@ ScrollReveal({ reset: true });
             duration: 1500, reset: true, distance: '100px' , origin: 'top',
         }
     );
+    ScrollReveal().reveal('#Img02', 
+        {    
+            duration: 1500, reset: true, distance: '50px' , origin: 'left',
+        }
+    );
